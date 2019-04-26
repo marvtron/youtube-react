@@ -16,7 +16,7 @@ export function SideBarFooter() {
         <div>Test New Features</div>
       </div>
       <div className='footer-block'>
-        <div>All prices include VAT</div>
+        <div><a href='https://github.com/marvtron/youtube-react' rel='noopener noreferrer' target='_blank'>GitHub Repo</a></div>
       </div>
       <div className='footer-block'>
         <div>© marvtrondev - A Youtube clone for educational purposes under fair use.</div>
