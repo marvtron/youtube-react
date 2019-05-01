@@ -8,5 +8,5 @@ export function SideBarHeader(props) {
     <Menu.Item>
       <Menu.Header className='side-bar-header'>{heading}</Menu.Header>
     </Menu.Item>
-  )
+  );
 }

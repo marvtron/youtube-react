@@ -13,13 +13,13 @@ export function SideBarFooter() {
       <div className='footer-block'>
         <div>Terms Privacy</div>
         <div>Policy & Safety</div>
-        <div>Test New Features</div>
+        <div>Test new features</div>
       </div>
       <div className='footer-block'>
-        <div><a href='https://github.com/marvtron/youtube-react' rel='noopener noreferrer' target='_blank'>GitHub Repo</a></div>
+        <div>All prices include VAT</div>
       </div>
       <div className='footer-block'>
-        <div>© marvtrondev - A Youtube clone for educational purposes under fair use.</div>
+        <div>© Productioncoder.com - A Youtube clone for educational purposes under fair use.</div>
       </div>
     </React.Fragment>
   );

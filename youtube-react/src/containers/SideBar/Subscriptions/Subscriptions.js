@@ -8,11 +8,11 @@ export class Subscriptions extends React.Component {
     return (
       <React.Fragment>
         <SideBarHeader title='Subscriptions'/>
-        <Subscription label='PewDiePie' broadcasting/>
-        <Subscription label='Joe Robinet' amountNewVideos={10}/>
-        <Subscription label='Man City' amountNewVideos={23}/>
-        <Subscription label='Venture4WD' amountNewVideos={4}/>
-        <Subscription label='Achievement Hunter' amountNewVideos={114}/>
+        <Subscription label='MusicChannel' broadcasting/>
+        <Subscription label='Coursea' amountNewVideos={10}/>
+        <Subscription label='TEDx Talks' amountNewVideos={23}/>
+        <Subscription label='Stanford iOS' amountNewVideos={4}/>
+        <Subscription label='Udacity' amountNewVideos={114}/>
         <Divider/>
       </React.Fragment>
     );
