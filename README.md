@@ -3,10 +3,11 @@ A Youtube clone built in React, Redux, Redux-saga
 
 UI-wise this application looks almost exactly like the original Youtube application
 
-![home](/images/home.png)
+![GitHub Logo](home.png)
 
-![watch](/images/watch.png)
-Format: ![Alt Text](url)
+
+![GitHub Logo](watch.png)
+
 
 It uses real data by leveraging the Youtube Data API v3. 
 
