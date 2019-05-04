@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/youtube-react/static/css/main.f5f30e7c.chunk.css",
+    "main.js": "/youtube-react/static/js/main.15f13e91.chunk.js",
+    "main.js.map": "/youtube-react/static/js/main.15f13e91.chunk.js.map",
+    "runtime~main.js": "/youtube-react/static/js/runtime~main.0fe0a208.js",
+    "runtime~main.js.map": "/youtube-react/static/js/runtime~main.0fe0a208.js.map",
+    "static/css/2.20edb33d.chunk.css": "/youtube-react/static/css/2.20edb33d.chunk.css",
+    "static/js/2.bdeefb03.chunk.js": "/youtube-react/static/js/2.bdeefb03.chunk.js",
+    "static/js/2.bdeefb03.chunk.js.map": "/youtube-react/static/js/2.bdeefb03.chunk.js.map",
+    "index.html": "/youtube-react/index.html",
+    "precache-manifest.575eb58875c9e9c68c7cbe505b2d2c37.js": "/youtube-react/precache-manifest.575eb58875c9e9c68c7cbe505b2d2c37.js",
+    "service-worker.js": "/youtube-react/service-worker.js",
+    "static/css/2.20edb33d.chunk.css.map": "/youtube-react/static/css/2.20edb33d.chunk.css.map",
+    "static/css/main.f5f30e7c.chunk.css.map": "/youtube-react/static/css/main.f5f30e7c.chunk.css.map",
+    "static/media/semantic.min.css": "/youtube-react/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.jpg": "/youtube-react/static/media/logo.e5520ae2.jpg"
+  }
+}
