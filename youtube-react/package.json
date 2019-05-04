@@ -1,8 +1,8 @@
 {
   "name": "youtube-react",
   "version": "0.1.0",
-  "private": true,
-  :"homepage": "https://marvtron.github.io/youtube-react",
+  "private": false,
+  "homepage": "https://marvtron.github.io/youtube-react",
   "dependencies": {
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
