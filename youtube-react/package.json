@@ -2,10 +2,12 @@
   "name": "youtube-react",
   "version": "0.1.0",
   "private": true,
+  :"homepage": "https://marvtron.github.io/youtube-react",
   "dependencies": {
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "enzyme-to-json": "^3.3.5",
+    "gh-pages": "^2.0.1",
     "javascript-time-ago": "^2.0.1",
     "node-sass": "^4.11.0",
     "react": "^16.8.6",
@@ -26,7 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
